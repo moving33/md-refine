@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# 출력 파일
+*_refined.md
+*_pdfplumber.md
+*_ftfy.md
+
+# 테스트용 입력 파일
+*.pdf
+*.docx
+*.xlsx
+*.pptx
